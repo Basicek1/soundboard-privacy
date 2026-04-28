@@ -14,7 +14,7 @@
   - **Background Audio**: Used to continue playback when the app is in the background.                            
                                               
   ## Contact                                                                                                      
-  If you have any questions, contact us at: begeni@razdva.cz                                                      
+  If you have any questions, contact us at: soundboardpro@begeni.eu                                                 
                                                                                                                   
   ## Changes                                                                                                      
   We may update this policy. Changes will be posted on this page.     

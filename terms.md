@@ -15,7 +15,7 @@
   least 24 hours before the end of the current period.      
   - **Lifetime access**: One-time purchase for permanent access to all features.                                    
                                               
-  Subscriptions can be managed and cancelled in your Apple ID account settings (iOS) or in Google Play Payments & subscriptions → Subscriptions (Android).                                    
+  Subscriptions can be managed and cancelled in your Apple ID account settings (iOS) or in Google Play Payments & subscriptions (Android).       
                                                             
   ## Disclaimer                                                                                                     
   The app is provided "as is" without warranties of any kind.                                                       
